@@ -1,0 +1,5 @@
+{
+  "name": "fooddelivery",
+  "displayName": "fooddelivery",
+  "plugins": ["expo-font"]
+}
